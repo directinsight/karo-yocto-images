@@ -7,7 +7,7 @@ An image is, for the most part, specific to the machine set in the environment s
 - Manifest commit: a90d585
 - Project: https://github.com/karo-electronics/meta-fsl-arm-extra
 - Project branch: krogoth
-- Project commit: b0ef801
+- Project commit: 5eaaf01
 
 ---
 [Ka-Ro electronics GmbH](http://www.karo-electronics.de)
